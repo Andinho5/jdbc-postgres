@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<car>
+		<id>F3434</id>
+		<desig>Ford Ranger</desig>
+		<age>4</age>
+		<date>12-09-2023</date>
+		<price>30500</price>
+		<dlv_city>Austin, TX</dlv_city>
+		<color>black</color>
+	</car>
+	<car>
+		<id>H1020</id>
+		<desig>Honda Civic</desig>
+		<age>0</age>
+		<date>12-09-2023</date>
+		<price>9445</price>
+		<dlv_city>Dallas, TX</dlv_city>
+		<color>black</color>
+	</car>
+	<car>
+		<id>V4532</id>
+		<desig>Volkswagen Polo</desig>
+		<age>5</age>
+		<date>12-09-2023</date>
+		<price>5660</price>
+		<dlv_city>Philadelphia, PA</dlv_city>
+		<color>black</color>
+	</car>
+	<car>
+		<id>C5656</id>
+		<desig>Chevrolet Camaro</desig>
+		<age>0</age>
+		<date>12-09-2023</date>
+		<price>12500</price>
+		<dlv_city>Chicago, IL</dlv_city>
+		<color>black</color>
+	</car>
+	<car>
+		<id>F6732</id>
+		<desig>Ferrari 296 GTB</desig>
+		<age>0</age>
+		<date>12-09-2023</date>
+		<price>125000</price>
+		<dlv_city>New York City, NY</dlv_city>
+		<color>black</color>
+	</car>
+
+</root>
